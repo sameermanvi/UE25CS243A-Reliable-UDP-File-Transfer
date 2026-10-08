@@ -10,3 +10,7 @@ Planned work:
 - Add a Mininet topology and Ryu controller for path experiments.
 - Add scripts for testing transfers and collecting performance results.
 - Document the design and experimental findings.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
